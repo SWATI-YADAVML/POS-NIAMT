@@ -14,3 +14,5 @@ The objective of this project is to demonstrate how POS tagging can be applied u
 - GUI support using tkinter (optional)
 - File upload support for batch POS tagging (optional)
 - Custom model or library-based tagging (e.g., NLTK or spaCy)
+  ![WhatsApp Image 2025-07-17 at 16 02 55_79fe43d6](https://github.com/user-attachments/assets/df603555-5e42-4c3d-a7d0-5b56b4c90b53)
+
